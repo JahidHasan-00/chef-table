@@ -1,0 +1,57 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_img": "https://i.ibb.co/pn779CC/pizza-margherita.png",
+        "recipe_name": "Pizza Margherita",
+        "description": "Classic Italian pizza topped with tomatoes, mozzarella, and basil leaves.",
+        "ingredients": ["300g Pizza dough", "200g Tomatoes", "150g Mozzarella cheese", "20g Fresh basil leaves", "15ml Olive oil", "Salt", "Pepper"],
+        "preparing_time": "30 minutes",
+        "calories": "250 calories" 
+    },      
+    {
+        "recipe_id": 2,
+        "recipe_img": "https://i.ibb.co/Bj9JTbx/chicken-alfredo-pasta.png",
+        "recipe_name": "Chicken Alfredo Pasta",
+        "description": "Creamy pasta dish with grilled chicken and Alfredo sauce.",
+        "ingredients": ["250g Pasta", "400g Chicken breast", "250ml Heavy cream", "100g Parmesan cheese", "50g Butter", "20g Garlic", "Salt", "Pepper"],
+        "preparing_time": "45 minutes",
+        "calories": "400 calories"
+    },      
+    {
+        "recipe_id": 3,
+        "recipe_img": "https://i.ibb.co/R6f8VJp/caesar-salad.png",
+        "recipe_name": "Caesar Salad",
+        "description": "Classic Caesar salad with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+        "ingredients": ["300g Romaine lettuce", "100g Croutons", "100g Parmesan cheese", "150ml Caesar dressing", "30ml Olive oil", "30ml Lemon juice", "15g Anchovy paste", "20g Garlic"],
+        "preparing_time": "20 minutes",
+        "calories": "180 calories"
+    },      
+    {
+        "recipe_id": 4,
+        "recipe_img": "https://i.ibb.co/Vqmk7n9/beef-stir-fry.png",
+        "recipe_name": "Beef Stir-Fry",
+        "description": "Quick and flavorful beef stir-fry with mixed vegetables and soy sauce.",
+        "ingredients": ["400g Beef strips", "200g Bell peppers", "200g Broccoli", "150g Carrots", "120ml Soy sauce", "30ml Sesame oil", "20g Garlic", "20g Ginger", "30g Cornstarch"],
+        "preparing_time": "25 minutes",
+        "calories": "320 calories"
+    },      
+    {
+        "recipe_id": 5,
+        "recipe_img": "https://i.ibb.co/t3RFQX6/vegetable-curry.png",
+        "recipe_name": "Vegetable Curry",
+        "description": "Spicy and aromatic vegetable curry with a blend of Indian spices.",
+        "ingredients": ["500g Mixed vegetables", "400ml Coconut milk", "30g Curry powder", "150g Onion", "20g Garlic", "20g Ginger", "200g Tomatoes", "30ml Vegetable oil", "Salt"],
+        "preparing_time": "40 minutes",
+        "calories": "280 calories"
+    },      
+    {
+        "recipe_id": 6,
+        "recipe_img": "https://i.ibb.co/5W3L9pQ/chocolate-chip-cookies.png",
+        "recipe_name": "Chocolate Chip Cookies",
+        "description": "Classic homemade chocolate chip cookies with a soft and chewy texture.",
+        "ingredients": ["250g All-purpose flour", "150g Butter", "200g Brown sugar", "150g Granulated sugar" , "200g Chocolate chips", "Egg", "10ml Vanilla extract", "5g Baking soda", "Salt"],
+        "preparing_time": "15 minutes",
+        "calories": "150 calories"
+    }      
+]
+  
